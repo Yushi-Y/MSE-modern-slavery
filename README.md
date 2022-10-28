@@ -1,2 +1,2 @@
 # stats-thesis
-Statistical Science Dissertation: Multiple Systems Estimation in Modern Slavery Prevalence Estimation
+Dissertation for MSc Statistical Science: Multiple Systems Estimation in Modern Slavery Prevalence Estimation
