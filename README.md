@@ -1,2 +1,2 @@
 # stats-thesis
-Thesis for MSc Statistical Science: Multiple Systems Estimation in Modern Slavery Prevalence Estimation
+Thesis for MSc Statistical Science: Estimate the prevalence of modern slavery using Frequentist and Bayesian Multiple Systems Estimation Methods
